@@ -2,7 +2,7 @@
 {
 "use strict";
 
-angular.module('sandbox.filters', []).
+angular.module('linksoup.filters', []).
   //
   // Meh.
   filter("boolString", function()

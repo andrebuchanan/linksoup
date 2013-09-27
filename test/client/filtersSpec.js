@@ -1,6 +1,6 @@
 describe("filter", function()
 {
-  beforeEach(angular.mock.module("sandbox.filters"));
+  beforeEach(angular.mock.module("linksoup.filters"));
 
   describe("boolString", function() {
     it("should return string representation of boolean", inject(function(boolStringFilter)

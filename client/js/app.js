@@ -1,6 +1,7 @@
+
 (function()
 {
 "use strict";
 
-angular.module("sandbox", ["sandbox.filters", "sandbox.services", "sandbox.directives", "sandbox.controllers"]);
+angular.module("linksoup", ["linksoup.filters", "linksoup.services", "linksoup.directives", "linksoup.controllers"]);
 })();

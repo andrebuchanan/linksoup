@@ -2,7 +2,7 @@
 {
 "use strict";
 
-angular.module("sandbox.directives", []).
+angular.module("linksoup.directives", []).
   //
   // Version directive
   directive("version", function(version) {

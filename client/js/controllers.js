@@ -2,7 +2,7 @@
 {
 "use strict";
 
-angular.module('sandbox.controllers', []).
+angular.module('linksoup.controllers', []).
   //
   // App controller. Handle basic functions.
   controller("appCtrl", function()

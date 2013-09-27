@@ -2,7 +2,7 @@
 {
 "use strict";
 
-angular.module('sandbox.services', ["ngResource"]);
+angular.module('linksoup.services', ["ngResource"]);
   //
   //
 })();
